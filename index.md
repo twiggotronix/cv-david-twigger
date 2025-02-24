@@ -16,9 +16,38 @@ Développeur passionné avec 15 ans d'expérience en développement web et full-
 `Depuis 2020`
 __Raise Partener Software engineer__
 
-- Produit [SRD](## "Smart Risk Decisions") (React, NestJs)
-- Projet client pour La BNP [CIB](## "Corporate Investment Banking") (Angular, Java Springboot)
+- Produit [SRD](## "Smart Risk Decisions") (React, NestJs, Typescript, Docker, GitLab CI)
+> Optimisation de portefeuille et aide de prise de décisions
 
+- Projet client [QIS](Quantitative Investment Strategies) pour La BNP [CIB](## "Corporate Investment Banking") 
+> Reporting et analyse financière (Angular, Java Springboot)
+
+`2017-2020`
+__Développeur Web Freelance__
+
+- [Togetzer](https://togetzer.com/)
+> Site de covoiturage  (PHP, Bootstrap, Mysql)
+
+
+`2016-2017`
+__Qim info Ingénieur Développement__
+
+- Projet client Lombard Odier (Ba nque d'investissement privée Suisse)
+> Système de calcul de frais bancaire (Angular, Java Springboot)
+
+`2015-2016`
+__BeeBuziness Développeur Javascript__
+
+- Produit Digital Publishing
+> Système de publication et d'enrichissement de documents (Javascript, NodeJs, Docker)
+
+`2008-2015`
+__Eolas, groupe Business & Decision Référent technique / Développeur__
+> Référent technique sur des projets clients au sein du CMS@Eolas (PHP, Javascript, MySQL)
+
+`Septembre 2007-Décembre 2007`
+__Rodacom Développeur__
+> Sites web pour agences immobilières (HTML, javascript)
 
 ## Formation
 
