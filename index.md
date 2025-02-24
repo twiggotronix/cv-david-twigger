@@ -1,91 +1,32 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David Twigger
+Développeur fullstack, nodeJs, React, Javascript, Typescript,
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">davidtwigger@gmail.com</a>
+| <a href="https://www.linkedin.com/in/david-twigger/">My Linkedin page</a>
 </div>
 
 
-## Currently
+## Actuellement
 
-Standing on the shoulders of giants
+Développeur passionné avec 15 ans d'expérience en développement web et full-stack, dont 10 ans d'utilisation de Node.js, toujours avide d'apprendre de nouvelles technologies et de partager ses connaissances.
 
-### Specialized in
+### Expèrience Professionnelle
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Depuis 2020`
+__Raise Partener Software engineer__
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Produit [SRD](## "Smart Risk Decisions") (React, NestJs)
+- Projet client pour La BNP [CIB](## "Corporate Investment Banking") (Angular, Java Springboot)
 
 
+## Formation
 
-## Awards
+`2006-2007`
+__Licence Professionnelle Systèmes Informatiques et Logiciels [3ID](## "Informatique, Internet, Image et Documents") à l'IUT2 Grenoble.__
 
-`2012`
-President, *Royal Society*, London, UK
+`2004-2006`
+__BTS [IRIS](## "Informatique & Réseau pour L'industrie et les Services") Lycée du Grésivaudan__
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+- Diplome d'honneur de l'[AFDET](## "Association Française pour le Développement de l’Enseignement Technique")
 
