@@ -51,17 +51,18 @@ Développeur fullstack passionné avec 15 ans d'expérience en développement we
   <span class="pill">Typescript</span>
   <span class="pill">Gitlab CI</span>
   <span class="pill">Docker</span>
+  <span class="pill">NX</span>
   </div>
 
   > Optimisation de portefeuille et aide de prise de décisions
 
-- Projet client [QIS](Quantitative Investment Strategies) pour La BNP [CIB](## "Corporate Investment Banking")
+- Projet client [QIS](## "Quantitative Investment Strategies") pour La BNP [CIB](## "Corporate Investment Banking")
   <div style="margin: 0.5em 0 1em 0;">
   <span class="pill">Angular</span>
   <span class="pill">Java Springboot</span>
   </div>
 
-  > Reporting et analyse financière (, )
+  > Reporting et analyse financière
 
 `2017-2020`
 **Développeur Web Freelance**
