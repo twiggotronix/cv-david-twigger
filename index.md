@@ -3,17 +3,15 @@
         background-color: rgba(27,31,35,0.05);
         padding: 6px;
         border-radius: 20px;
-        margin: 10px 2px;
+        margin: 10px 4px;
         font-size: 0.8em;
         font-style: italic;
+        line-height: 3em;
+        position: relative;
     }
     .pill:before {
         content: "#";
-        margin-right: 8px;
-    }
-    .pill:after:not(last-child) {
-        content: "|";
-        margin-left: 8px;
+        margin-right: 2px;
     }
 </style>
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
