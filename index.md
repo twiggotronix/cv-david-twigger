@@ -1,7 +1,9 @@
 # David Twigger
 
-![David Twigger](./media/profile-pic.png)
+<div id="profile">
+<img src="./media/profile-pic.png" alt="David Twigger" id="profilePic">
 Développeur fullstack, nodeJs, React, Javascript, Typescript,
+</div>
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">davidtwigger@gmail.com</a>
