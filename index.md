@@ -30,7 +30,7 @@
 </div>
 
 <div style="text-align: center">
-<a href="isaac@applesdofall.org">davidtwigger@gmail.com</a>
+<a href="davidtwigger@gmail.com">davidtwigger@gmail.com</a>
 | <a href="https://www.linkedin.com/in/david-twigger/">Linkedin</a>
 | <a href="https://github.com/twiggotronix">Github</a>
 </div>
