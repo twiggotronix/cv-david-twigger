@@ -1,8 +1,10 @@
 # David Twigger
 
-<div id="profile">
-<img src="./media/profile-pic.png" alt="David Twigger" id="profilePic">
-Développeur fullstack, nodeJs, React, Javascript, Typescript,
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<img src="./media/profile-pic.png" alt="David Twigger" width="100px">
+<div>
+> Développeur fullstack, nodeJs, React, Javascript, Typescript
+</div>
 </div>
 
 <div id="webaddress">
