@@ -1,11 +1,8 @@
-# David Twigger
-
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-<img src="./media/profile-pic.png" alt="David Twigger" width="100px">
-<div>
+    <img src="./media/profile-pic.png" alt="David Twigger" width="100px">
+    <h1>David Twigger</h1>
+    </div>
 > Développeur fullstack, nodeJs, React, Javascript, Typescript
-</div>
-</div>
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">davidtwigger@gmail.com</a>
