@@ -1,4 +1,5 @@
 <style>
+    body {  background: transparent url(media/background) no-repeat top center;}
     .pill {
         background-color: rgba(27,31,35,0.05);
         padding: 6px;
