@@ -39,12 +39,12 @@
 
 Développeur fullstack passionné avec 15 ans d'expérience en développement web et full-stack, dont 10 ans d'utilisation de Node.js, toujours avide d'apprendre de nouvelles technologies et de partager ses connaissances.
 
-### Expèrience Professionnelle
+### Expérience Professionnelle
 
 `Depuis 2020`
-**Raise Partener Software engineer**
+**Raise Partner Software Engineer**
 
-- Produit [SRD](## "Smart Risk Decisions")
+- Produit: [SRD](## "Smart Risk Decisions")
   <div style="margin: 0.5em 0 1em 0;">
   <span class="pill">React</span>
   <span class="pill">NestJs</span>
@@ -54,9 +54,9 @@ Développeur fullstack passionné avec 15 ans d'expérience en développement we
   <span class="pill">NX</span>
   </div>
 
-  > Optimisation de portefeuille et aide de prise de décisions
+  > Optimisation de portefeuille et aide à la prise de décisions
 
-- Projet client [QIS](## "Quantitative Investment Strategies") pour La BNP [CIB](## "Corporate Investment Banking")
+- Projet client: [QIS](## "Quantitative Investment Strategies") pour la BNP [CIB](## "Corporate Investment Banking")
   <div style="margin: 0.5em 0 1em 0;">
   <span class="pill">Angular</span>
   <span class="pill">Java Springboot</span>
@@ -78,7 +78,7 @@ Développeur fullstack passionné avec 15 ans d'expérience en développement we
 `2016-2017`
 **Qim info Ingénieur Développement**
 
-- Projet client Lombard Odier (Banque d'investissement privée Suisse)
+- Projet client: Lombard Odier (Banque d'investissement privée Suisse)
   <div style="margin: 0.5em 0 1em 0;">
   <span class="pill">Angular</span>
   <span class="pill">Java Springboot</span>
@@ -88,7 +88,7 @@ Développeur fullstack passionné avec 15 ans d'expérience en développement we
 `2015-2016`
 **BeeBuziness Développeur Javascript**
 
-- Produit Digital Publishing
+- Produit: Digital Publishing
   <div style="margin: 0.5em 0 1em 0;">
   <span class="pill">Javascript</span>
   <span class="pill">NodeJs</span>
@@ -106,7 +106,7 @@ Développeur fullstack passionné avec 15 ans d'expérience en développement we
   </div>
 > Référent technique sur des projets clients au sein du CMS@Eolas
 
-`Septembre 2007-Décembre 2007`
+`2007 (Septembre - Décembre)`
 **Rodacom Développeur**
 
   <div style="margin: 0.5em 0 1em 0;">
@@ -123,7 +123,7 @@ Développeur fullstack passionné avec 15 ans d'expérience en développement we
 `2004-2006`
 **BTS [IRIS](## "Informatique & Réseau pour L'industrie et les Services") Lycée du Grésivaudan**
 
-- Diplome d'honneur de l'[AFDET](## "Association Française pour le Développement de l’Enseignement Technique")
+- Diplôme d'honneur de l'[AFDET](## "Association Française pour le Développement de l’Enseignement Technique")
 
 ## Projets personnels
 
