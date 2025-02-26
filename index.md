@@ -13,6 +13,9 @@
         content: "#";
         margin-right: 2px;
     }
+    .container-lg > h1 {
+        display: none;
+    }
 </style>
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
     <img src="./media/profile-pic.png" alt="David Twigger" width="100px">
