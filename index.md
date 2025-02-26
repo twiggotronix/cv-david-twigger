@@ -1,28 +1,49 @@
 <style>
-    body {  background: transparent url(media/background) no-repeat top center;}
+    body {  
+      background: transparent url(./media/background.jpg) no-repeat top center;
+      }
     .pill {
-        background-color: rgba(27,31,35,0.05);
-        padding: 6px;
-        border-radius: 20px;
-        margin: 10px 4px;
-        font-size: 0.8em;
-        font-style: italic;
-        line-height: 3em;
-        position: relative;
+      background-color: rgba(27,31,35,0.05);
+      padding: 6px;
+      border-radius: 20px;
+      margin: 10px 4px;
+      font-size: 0.8em;
+      font-style: italic;
+      line-height: 3em;
+      position: relative;
     }
     .pill:before {
-        content: "#";
-        margin-right: 2px;
+      content: "#";
+      margin-right: 2px;
     }
     .container-lg > h1 {
-        display: none;
+      display: none;
     }
+    .container-lg {
+      background: rgba(255,255,255,0.7);
+      padding-top: 4em;
+      border-radius: 20px;
+    }
+    header {
+      display: flex; 
+      flex-direction: row; 
+      align-items: center;
+      justify-content: center;
+    }
+    header h1 {
+      margin-left: 1em;
+    }
+    #pills {
+      text-align: center; 
+      margin: 2em 0;
+    }
+    #actuellement { margin-top: 90px; }
 </style>
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<header>
     <img src="./media/profile-pic.png" alt="David Twigger" width="100px">
-    <h1 style="margin-left: 1em;">David Twigger</h1>
-    </div>
-<div style="text-align: center; margin: 1em 0; ">
+    <h1>David Twigger</h1>
+</header>
+<div id="pills">
     <span class="pill">NodeJs</span>
     <span class="pill">React</span>
     <span class="pill">Angular</span>
