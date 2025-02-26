@@ -128,6 +128,12 @@ Développeur fullstack passionné avec 15 ans d'expérience en développement we
 
 - Diplôme d'honneur de l'[AFDET](## "Association Française pour le Développement de l’Enseignement Technique")
 
+## Langues
+
+- 🇬🇧 Anglais (Langue maternelle)
+- 🇫🇷 Français (Courrement)
+- 🇪🇸 Espagnol (Notions)
+
 ## Projets personnels
 
 - Host updater [GitHub](https://github.com/twiggotronix/host-updater)
@@ -145,3 +151,9 @@ Développeur fullstack passionné avec 15 ans d'expérience en développement we
   <span class="pill">Gitlab</span>
   </div>
   > Mini ERP en NextJs destiné aux TPE
+
+## Centres d'intérêt
+
+- Impression 3D
+- Electronique & Domotique
+- Musique
